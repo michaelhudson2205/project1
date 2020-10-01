@@ -11,9 +11,10 @@ tags:
 title: About
 ---
 
-Erlich administers the Hacker Hostel, a tech incubator where Richard, Big Head, Dinesh, and Gilfoyle live and work in exchange for 10 percent of their potential businesses. Erlich clings to his glory days, when he sold aviation start-up Aviato, a move that, at least in his mind, qualifies him to be a svengali lording over other tech nerds. He still drives a car emblazoned with multiple Aviato logos and smokes copious amounts of weed.[1]
+I am currently learning R and other things that go along with that, such as data wrangling and analysis, using r markdown to create notes and documents, blogdown to create this website, shiny, ggplot2, etc. I will demonstrate some of my skills in the projects section of this website.
 
-In Fiduciary Duties, a drunk Richard makes Erlich a Pied Piper board member, a decision he later regrets.
+I am currently studying for a B. Science with a major in statistics at University of Southern Queensland, Australia.
 
-In Two Days of the Condor, it is revealed that Mike no longer codes due to carpal tunnel syndrome.
+My other interests include bushwalking, playing chess, and drawing/animating.
 
+Please contact me if you think I may be suitable for any job you have on offer, or if you wish to comment on anything of interest you see on this website.

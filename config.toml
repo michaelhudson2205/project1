@@ -23,7 +23,7 @@ enableRobotsTXT = true
 [params]
 author = "Mike Hudson"
 intro = "Learning R and associated tech."
-description = "This site created using blogdown, Hugo, GitHub and Netlify."
+description = "This site created using RStudio, blogdown, Hugo, GitHub and Netlify."
 authorimage = "profile_pic.jpg"
 dateformat = "Jan 2, 2006"
 
@@ -71,7 +71,7 @@ pgp = "<key_fingerprint>"
 
 ## Extras
 [params.extra]
-copyright = "© 2016. Erlich Bachman. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)."
+copyright = "© 2016. Michael Hudson. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)."
 poweredby = true
 highlightjs = true
 socialmarkup = true

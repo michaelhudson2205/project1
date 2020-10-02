@@ -23,7 +23,7 @@ enableRobotsTXT = true
 [params]
 author = "Mike Hudson"
 intro = "Learning R and associated tech."
-description = "This site created using RStudio, blogdown, Hugo, GitHub and Netlify."
+description = "This site created using RStudio, blogdown, Hugo, GitHub and Netlify. And with thanks to Mark Gingrass for his excellent videos on YouTube (CradleToGraveR)"
 authorimage = "profile_pic.jpg"
 dateformat = "Jan 2, 2006"
 
@@ -38,7 +38,7 @@ github = "<username>"
 instagram = "<username>"
 xing = "<username>"
 linkedin = "<username>"
-twitter = "<username>"
+twitter = "<mikejhudson>"
 facebook = "<username>"
 google = "<username>"
 googlescholar = "<account_id>"

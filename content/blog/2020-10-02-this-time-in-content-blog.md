@@ -12,4 +12,4 @@ showcomments: yes
 showpagemeta: yes
 ---
 
-Another attempt. This time in content > blog.
+Another attempt. This time in content > blog. I quit the night job today.

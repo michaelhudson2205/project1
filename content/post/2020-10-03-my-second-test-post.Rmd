@@ -1,0 +1,15 @@
+---
+title: My Second Test Post
+author: Mike Hudson
+date: '2020-10-03'
+slug: my-second-test-post
+categories:
+  - propaganda
+tags:
+  - belson
+comments: no
+showcomments: yes
+showpagemeta: yes
+---
+
+My second post. This time after having pushed all the staged changes in the public directory then placing public/ in the .gitignore file. Just see what will happen. Also, this post as .Rmd.

@@ -13,3 +13,5 @@ tags:
 title: CodeRag
 ---
 Not sure what I'll use this page for yet.
+
+{{< tweet 1312151275694256130 >}}

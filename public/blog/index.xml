@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on Mike Hudson</title>
-    <link>/blog/</link>
+    <link>https://mikejhudson.netlify.app/blog/</link>
     <description>Recent content in Blogs on Mike Hudson</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sat, 03 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 03 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://mikejhudson.netlify.app/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Second Test again</title>
-      <link>/blog/second-test-again/</link>
+      <link>https://mikejhudson.netlify.app/blog/second-test-again/</link>
       <pubDate>Sat, 03 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>/blog/second-test-again/</guid>
+      <guid>https://mikejhudson.netlify.app/blog/second-test-again/</guid>
       <description>My second post. This time after having pushed all the staged changes in the public directory then placing public/ in the .gitignore file. Just see what will happen. Also, this post as .Rmd. Updating this post so it has category of madman and extra tag of sardine.</description>
     </item>
     
     <item>
       <title>Third post md not Rmd</title>
-      <link>/blog/third-post-md-not-rmd/</link>
+      <link>https://mikejhudson.netlify.app/blog/third-post-md-not-rmd/</link>
       <pubDate>Sat, 03 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>/blog/third-post-md-not-rmd/</guid>
+      <guid>https://mikejhudson.netlify.app/blog/third-post-md-not-rmd/</guid>
       <description>My third post. This one down in md format not Rmd. Seems that when I use R Markdown an html file is built and placed in the content/blog folder but not when md is used.</description>
     </item>
     
     <item>
       <title>This time in content blog</title>
-      <link>/blog/this-time-in-content-blog/</link>
+      <link>https://mikejhudson.netlify.app/blog/this-time-in-content-blog/</link>
       <pubDate>Fri, 02 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>/blog/this-time-in-content-blog/</guid>
+      <guid>https://mikejhudson.netlify.app/blog/this-time-in-content-blog/</guid>
       <description>Another attempt. This time in content &amp;gt; blog. I quit the night job today.</description>
     </item>
     

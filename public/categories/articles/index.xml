@@ -2,18 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>articles on Mike Hudson</title>
-    <link>/categories/articles/</link>
+    <link>https://mikejhudson.netlify.app/categories/articles/</link>
     <description>Recent content in articles on Mike Hudson</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sun, 02 Oct 2016 22:55:05 -0400</lastBuildDate><atom:link href="/categories/articles/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 02 Oct 2016 22:55:05 -0400</lastBuildDate><atom:link href="https://mikejhudson.netlify.app/categories/articles/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>CodeRag</title>
-      <link>/coderag/</link>
+      <link>https://mikejhudson.netlify.app/coderag/</link>
       <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
       
-      <guid>/coderag/</guid>
-      <description>Not sure what I&amp;rsquo;ll use this page for yet.</description>
+      <guid>https://mikejhudson.netlify.app/coderag/</guid>
+      <description>Not sure what I&amp;rsquo;ll use this page for yet.
+I used to joke that the White House would need to be fumigated when Trump left. Funny how that’s no longer a joke, but a fact.
+&amp;mdash; Stripe (@Justme10000000) October 2, 2020  </description>
     </item>
     
   </channel>

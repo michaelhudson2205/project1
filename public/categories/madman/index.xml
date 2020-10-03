@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>madman on Mike Hudson</title>
+    <link>/categories/madman/</link>
+    <description>Recent content in madman on Mike Hudson</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 03 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="/categories/madman/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Second Test again</title>
+      <link>/blog/second-test-again/</link>
+      <pubDate>Sat, 03 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/second-test-again/</guid>
+      <description>My second post. This time after having pushed all the staged changes in the public directory then placing public/ in the .gitignore file. Just see what will happen. Also, this post as .Rmd. Updating this post so it has category of madman and extra tag of sardine.</description>
+    </item>
+    
+  </channel>
+</rss>

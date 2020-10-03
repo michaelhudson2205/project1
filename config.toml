@@ -25,7 +25,7 @@ author = "Mike Hudson"
 intro = "Learning R and associated tech."
 description = "This site created using RStudio, blogdown, Hugo, GitHub and Netlify. And with thanks to Mark Gingrass for his excellent videos on YouTube (CradleToGraveR)."
 authorimage = "profile_pic.jpg"
-dateformat = "Jan 2, 2006"
+dateformat = "2 Jan 2006"
 
 ## Site Meta Settings
 [params.meta]
@@ -90,7 +90,12 @@ displayrssicon = true
     weight = 200
     url = "/about/"
 [[menu.main]]
-    name = "projects"
-    identifier = "coderag"
+    name = "projects (aka posts)"
+    identifier = "projects"
     weight = 300
+    url = "/post/"    
+[[menu.main]]
+    name = "empty page"
+    identifier = "coderag"
+    weight = 400
     url = "/coderag/"

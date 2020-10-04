@@ -1,0 +1,18 @@
+---
+title: A link to my test Shiny App
+author: Mike Hudson
+date: '2020-10-04'
+slug: a-link-to-my-test-shiny-app
+categories:
+  - madman
+tags:
+  - sardine
+comments: no
+showcomments: yes
+showpagemeta: yes
+---
+
+Here is the link to my test Shiny App:
+https://mikejhudson.shinyapps.io/Mike_4Reactivity_23BYO/
+
+This post was created as an Rmd file. The link was pasted in raw, i.e. no angle brackets or any other formatting.

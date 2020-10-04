@@ -6,7 +6,17 @@
     <description>Recent content in sardine on Mike Hudson</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sat, 03 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://mikejhudson.netlify.app/tags/sardine/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 04 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://mikejhudson.netlify.app/tags/sardine/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A link to my test Shiny App</title>
+      <link>https://mikejhudson.netlify.app/post/a-link-to-my-test-shiny-app/</link>
+      <pubDate>Sun, 04 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://mikejhudson.netlify.app/post/a-link-to-my-test-shiny-app/</guid>
+      <description>Here is the link to my test Shiny App: https://mikejhudson.shinyapps.io/Mike_4Reactivity_23BYO/
+This post was created as an Rmd file. The link was pasted in raw, i.e. no angle brackets or any other formatting.</description>
+    </item>
+    
     <item>
       <title>Pasting in an Rmd</title>
       <link>https://mikejhudson.netlify.app/post/pasting-in-an-rmd/</link>

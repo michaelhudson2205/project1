@@ -13,6 +13,7 @@ showpagemeta: yes
 ---
 
 Here is the link to my test Shiny App:
-https://mikejhudson.shinyapps.io/Mike_4Reactivity_23BYO/
+
+[my test Shiny App] (https://mikejhudson.shinyapps.io/Mike_4Reactivity_23BYO/){target="_blank"}
 
 This post was created as an Rmd file. The link was pasted in raw, i.e. no angle brackets or any other formatting.

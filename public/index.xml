@@ -13,7 +13,8 @@
       <pubDate>Sun, 04 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>https://mikejhudson.netlify.app/post/a-link-to-my-test-shiny-app/</guid>
-      <description>Here is the link to my test Shiny App: https://mikejhudson.shinyapps.io/Mike_4Reactivity_23BYO/
+      <description>Here is the link to my test Shiny App:
+[my test Shiny App] (https://mikejhudson.shinyapps.io/Mike_4Reactivity_23BYO/){target=&#34;_blank&#34;}
 This post was created as an Rmd file. The link was pasted in raw, i.e. no angle brackets or any other formatting.</description>
     </item>
     

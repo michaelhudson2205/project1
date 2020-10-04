@@ -19,6 +19,17 @@ This post was created as an Rmd file. The link was pasted in raw, i.e. no angle
     </item>
     
     <item>
+      <title>Link to Shiny App in md</title>
+      <link>https://mikejhudson.netlify.app/post/link-to-shiny-app-in-md/</link>
+      <pubDate>Sun, 04 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://mikejhudson.netlify.app/post/link-to-shiny-app-in-md/</guid>
+      <description>Ok, could get Rmd to work. Going to try again in md format.
+my test Shiny app
+Let&amp;rsquo;s see how this goes. There is a blank line before and after the link.</description>
+    </item>
+    
+    <item>
       <title>My Second Test Post</title>
       <link>https://mikejhudson.netlify.app/post/my-second-test-post/</link>
       <pubDate>Sat, 03 Oct 2020 00:00:00 +0000</pubDate>

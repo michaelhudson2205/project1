@@ -25,6 +25,7 @@ This post was created as an Rmd file. The link was pasted in raw, i.e. no angle
       
       <guid>https://mikejhudson.netlify.app/post/link-to-shiny-app-in-md/</guid>
       <description>Ok, could get Rmd to work. Going to try again in md format.
+Nothing I tried would get the link to open in a new tab automatically. No worries. Right click on the following link and &amp;ldquo;Open Link in New Tab&amp;rdquo;.
 my test Shiny app
 Let&amp;rsquo;s see how this goes. There is a blank line before and after the link.</description>
     </item>

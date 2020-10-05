@@ -6,7 +6,27 @@
     <description>Recent content in madman on Mike Hudson</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sun, 04 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://mikejhudson.netlify.app/categories/madman/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 05 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://mikejhudson.netlify.app/categories/madman/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Math expressions in Rmd</title>
+      <link>https://mikejhudson.netlify.app/blog/math-expressions-in-rmd/</link>
+      <pubDate>Mon, 05 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://mikejhudson.netlify.app/blog/math-expressions-in-rmd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maths expressions in Rmd</title>
+      <link>https://mikejhudson.netlify.app/blog/maths-expressions-in-rmd/</link>
+      <pubDate>Mon, 05 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://mikejhudson.netlify.app/blog/maths-expressions-in-rmd/</guid>
+      <description>Inline using pair of single dollars signs \(f(k) = {n\choose k} p^{k} (1-p)^{n-k}\). Lets see if that works.
+This next one is called display style and uses a pair of double dollar signs: \[f(k) = {n\choose k} p^{k} (1-p)^{n-k}\]
+Let’s go!</description>
+    </item>
+    
     <item>
       <title>A link to my test Shiny App</title>
       <link>https://mikejhudson.netlify.app/post/a-link-to-my-test-shiny-app/</link>
@@ -24,8 +44,9 @@ This post was created as an Rmd file. The link was pasted in raw, i.e. no angle
       <pubDate>Sun, 04 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>https://mikejhudson.netlify.app/post/link-to-shiny-app-in-md/</guid>
-      <description>Ok, could get Rmd to work. Going to try again in md format.
-Nothing I tried would get the link to open in a new tab automatically. No worries. Right click on the following link and &amp;ldquo;Open Link in New Tab&amp;rdquo;.
+      <description>Ok, could not get Rmd to work. Going to try again in md format.
+Nothing I tried would get the link to open in a new tab automatically. No worries.
+Right click on the following link and &amp;ldquo;Open Link in New Tab&amp;rdquo;.
 my test Shiny app
 Let&amp;rsquo;s see how this goes. There is a blank line before and after the link.</description>
     </item>

@@ -12,9 +12,10 @@ showcomments: yes
 showpagemeta: yes
 ---
 
-Ok, could get Rmd to work. Going to try again in md format.
+Ok, could not get Rmd to work. Going to try again in md format.
 
 Nothing I tried would get the link to open in a new tab automatically. No worries.
+
 Right click on the following link and "Open Link in New Tab".
 
 [my test Shiny app](https://mikejhudson.shinyapps.io/Mike_4Reactivity_23BYO/ "Test Shiny")

@@ -3,12 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://mikejhudson.netlify.app/post/a-link-to-my-test-shiny-app/</loc>
-    <lastmod>2020-10-04T00:00:00+00:00</lastmod>
+    <loc>https://mikejhudson.netlify.app/blog/</loc>
+    <lastmod>2020-10-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://mikejhudson.netlify.app/categories/</loc>
+    <lastmod>2020-10-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mikejhudson.netlify.app/categories/madman/</loc>
+    <lastmod>2020-10-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mikejhudson.netlify.app/blog/math-expressions-in-rmd/</loc>
+    <lastmod>2020-10-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mikejhudson.netlify.app/blog/maths-expressions-in-rmd/</loc>
+    <lastmod>2020-10-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mikejhudson.netlify.app/</loc>
+    <lastmod>2020-10-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mikejhudson.netlify.app/tags/sardine/</loc>
+    <lastmod>2020-10-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mikejhudson.netlify.app/tags/</loc>
+    <lastmod>2020-10-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mikejhudson.netlify.app/post/a-link-to-my-test-shiny-app/</loc>
     <lastmod>2020-10-04T00:00:00+00:00</lastmod>
   </url>
   
@@ -18,37 +53,12 @@
   </url>
   
   <url>
-    <loc>https://mikejhudson.netlify.app/categories/madman/</loc>
-    <lastmod>2020-10-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mikejhudson.netlify.app/</loc>
-    <lastmod>2020-10-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://mikejhudson.netlify.app/post/</loc>
     <lastmod>2020-10-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mikejhudson.netlify.app/tags/sardine/</loc>
-    <lastmod>2020-10-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mikejhudson.netlify.app/tags/</loc>
-    <lastmod>2020-10-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://mikejhudson.netlify.app/tags/belson/</loc>
-    <lastmod>2020-10-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mikejhudson.netlify.app/blog/</loc>
     <lastmod>2020-10-03T00:00:00+00:00</lastmod>
   </url>
   

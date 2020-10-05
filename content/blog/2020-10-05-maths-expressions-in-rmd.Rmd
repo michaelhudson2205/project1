@@ -1,0 +1,19 @@
+---
+title: Maths expressions in Rmd
+author: Mike Hudson
+date: '2020-10-05'
+slug: maths-expressions-in-rmd
+categories:
+  - madman
+tags:
+  - sardine
+comments: no
+showcomments: yes
+showpagemeta: yes
+---
+
+Inline using pair of single dollars signs $f(k) = {n\choose k} p^{k} (1-p)^{n-k}$. Lets see if that works.
+
+This next one is called display style and uses a pair of double dollar signs: $$f(k) = {n\choose k} p^{k} (1-p)^{n-k}$$
+
+Let's go!
